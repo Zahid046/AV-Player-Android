@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AV Player</string>
+    <string name="p1b1">Audio</string>
+    <string name="p1b2">Video</string>
+    <string name="p1s1">Play and Experience the best Musics and Videos</string>
+    <string name="title_text"> Warning !</string>
+    <string name="massege_text"> Do want to exit ?</string>
+    <string name="bt1">  </string>
+</resources>
